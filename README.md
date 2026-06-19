@@ -1,10 +1,10 @@
 # Atividades DEW
 
-# Título:
-Atividade 8 - listagem de exercícios JavaScript
-Instruções:
- 
+# Título: Atividade 8 - listagem de exercícios JavaScript
 
+
+# Instruções:
+ 
 
 # Objetivo
 Realizar a atividade prática aplicando os conceitos estudados nas aulas 15, 16, 17 e 18.
